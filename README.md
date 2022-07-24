@@ -12,6 +12,8 @@
 do, Kz.  analyses the target website checking the presence of a vulnerabilitie  </h4>
 
 
+- [ ] **0day (7) && CVE (126)**
+
 ![11](https://user-images.githubusercontent.com/72355033/180667280-bfc04ac6-704d-46c2-9b46-16c011901de0.PNG)
 
 https://user-images.githubusercontent.com/72355033/180666764-eda3907e-7240-4148-94f3-9b1c9d50c44c.mp4
