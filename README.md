@@ -50,3 +50,11 @@ $ python kz.py
 ***If you have a site you want to check, contact me***
 
 
+
+
+### _You can contribute in following ways:_
+
+- Search for vulnerability
+- Develop plugins
+- Searching Exploits
+
