@@ -18,7 +18,7 @@ do, Kz.  analyses the target website checking the presence of a vulnerabilitie  
 
 https://user-images.githubusercontent.com/72355033/180666764-eda3907e-7240-4148-94f3-9b1c9d50c44c.mp4
 
-### _  Install kz on Ubuntu & Linux _
+### _  Install kz on & Linux _
 
 
 ```
