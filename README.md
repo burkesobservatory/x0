@@ -1,21 +1,23 @@
 
 
 
+#bug_hunter 
+#rce 
+#0day 
+#wp_auto_exploit
+#1337kro
+#scanner #xss #sqli 
+#exploit-db 
 - 
 - 
 - 
-- 
-
-<h4 align="center">kz is An Intelligent Bot Auto exploit  Injector that detects vulnerabilities (wp)</h4>
-<h4 align="center">Instead of injecting each and every shell manually like all the other tools
-do, Kz.  analyses the target website checking the presence of a vulnerabilitie  </h4>
 
 
-- [ ] **0day (7) && CVE (126)**
+![Capture](https://user-images.githubusercontent.com/72355033/214109184-fb60e82a-f2ca-4bfc-bfac-8a5c76a9fe06.PNG)
 
-![11](https://user-images.githubusercontent.com/72355033/180667280-bfc04ac6-704d-46c2-9b46-16c011901de0.PNG)
+https://www.youtube.com/watch?v=7yX9m1FynHg
 
-https://user-images.githubusercontent.com/72355033/180666764-eda3907e-7240-4148-94f3-9b1c9d50c44c.mp4
+
 
 ### _  Install kz on & Linux _
 
@@ -57,3 +59,6 @@ $ python kz.py
 - Develop plugins
 - Searching Exploits
 
+
+
+(not free)
